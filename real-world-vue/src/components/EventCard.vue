@@ -1,6 +1,5 @@
 <template>
   <div class="event-card">
-    <h1>Events for Good</h1>
     <span>@ {{ event.time }} on {{ event.date }}</span>
     <h4>{{ event.title }}</h4>
   </div>
